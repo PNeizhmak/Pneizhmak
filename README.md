@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm [Pavel](https://www.linkedin.com/in/pneizhmak/), Senior Engineering Manager
+
+:pushpin: [Here are](https://pneizhmak.github.io/about-myself/) some details about me
 
 <!--
 **PNeizhmak/Pneizhmak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
